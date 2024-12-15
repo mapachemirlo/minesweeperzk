@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     <a href="" target="_blank">
-      <img width="100%" src="logo.jpg"></a>
+      <img width="100%" src="logo.png"></a>
   </p>
 
 ## Project Short Description
