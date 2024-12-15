@@ -1,3 +1,26 @@
+<div align="center">
+  <p>
+    <a href="" target="_blank">
+      <img width="100%" src="logo.jpg"></a>
+  </p>
+
+## Project Short Description
+The project is a Minesweeper dApp developed on zkSync Era, combining a classic game with blockchain technology. Thanks to zkSync, privacy is a central aspect: the location of the mines remains hidden, even from the system, ensuring a secure and fair gameplay experience while still being transparent as everything is decentralized. It also has low costs, allowing for multiple interactions with the game without worrying about high fees.
+
+## Project Vision
+To be a leader in decentralized gamification, demonstrating how traditional games can integrate with blockchain to offer privacy and low fees, with the potential to incorporate economic rewards through tokens.
+
+## Features
+The contract for distributing prizes was developed, but due to network issues, it couldn't be deployed.
+
+## Contracts
+https://github.com/mapachemirlo/minesweeperzk-contracts
+
+## Demo
+https://minesweeperzk.vercel.app/
+
+## Installation
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
