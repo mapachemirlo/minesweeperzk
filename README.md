@@ -16,6 +16,9 @@ The contract for distributing prizes was developed, but due to network issues, i
 ## Contracts
 https://github.com/mapachemirlo/minesweeperzk-contracts
 
+## Live demo
+https://www.loom.com/share/66a241319d3a47a3b3cd443374acf6b9
+
 ## Demo
 https://minesweeperzk.vercel.app/
 
